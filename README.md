@@ -1,4 +1,3 @@
-Here's a `README.md` file for your project:
 
 ```markdown
 # Sports Chatbot with Flask and Twilio
