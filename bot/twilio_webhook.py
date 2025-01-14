@@ -1,4 +1,4 @@
-from bot.sportmonks_api import get_ongoing_leagues, get_games_by_league, get_teams_by_league
+from bot.sportsmonks_api import get_ongoing_leagues, get_games_by_league, get_teams_by_league
 from config import config
 
 # User state management (replace with DB for production)
